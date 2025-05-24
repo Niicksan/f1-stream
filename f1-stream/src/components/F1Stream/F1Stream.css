@@ -1,0 +1,18 @@
+.f1-stream-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.video.responsive {
+    /* Adjust for desired width */
+    width: 100%;
+    /* Adjust for desired height */
+    height: 100%;
+    /* Maximum width */
+    max-width: 1000px;
+    /* Maximum height */
+    max-height: 600px;
+}
